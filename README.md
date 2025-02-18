@@ -9,7 +9,7 @@ como Data Analyst e Business Intelligence Analyst, desde 2021.
 
 ## 📖 Sobre
 
-A maior parte dos projetos estão relacionados com três principais áreas:
+Os projetos estão relacionados principalmente com:
 - Pipeline de dados
 - Criação de Bot e validadores (web e de automações)
 - Análises diversificadas
