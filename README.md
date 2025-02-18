@@ -1,4 +1,4 @@
-# 🐍 Projetos e Aprimoramentos Python, com Pandas e tratamentos de dados em foco!
+# 🐍 Projetos e Aprimoramentos Python e Pandas
 
 ![Python](https://www.python.org/static/community_logos/python-logo.png)
 
